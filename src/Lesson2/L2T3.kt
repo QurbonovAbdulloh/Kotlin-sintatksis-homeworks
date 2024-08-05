@@ -6,8 +6,7 @@ fun main() {
 
     var a = "a"
     var b = "b"
-    var c = "x"
-    c = a
+    val c = a
     a = b
     b = c
 
